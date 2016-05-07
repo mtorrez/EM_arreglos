@@ -13,6 +13,7 @@
 	<p>Para crear un arreglo se hace uso de la función array(). Esta puede tomar de cero a varios parámetros y retorna un arreglo el cual es asignado a una variable con el operado de igualación =. Si la función recibe parámetros, entonces el arreglo será creado con estos valores. Los arreglos en PHP cambian su tamaño dinámicamente dependiendo la cantidad de datos que tengan, por lo tanto no es necesario establecer un tamaño al momento de su creación como en otros lenguaje.</p>
 	<pre>
 		$arreglo = array();
+		$arreglo1 = array('Uno', 'dos', 'tres','cuatro');
 	</pre>
 	<h2>Arrays numericos</h2>
 	<?php 
